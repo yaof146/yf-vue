@@ -22,5 +22,5 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 ![结果图](src/assets/1.png)
-<img src="src/assets/1.png" width="500" height="571" alt="图片加载失败时，显示这段字"/>
+
 
